@@ -1,5 +1,7 @@
 # PDO - Partie 2 : Écrire des données
 
+
+
 ## Exercice 1
 
 Créer un formulaire permettant d'ajouter un client dans la base de données. Il devra comporter les champs : nom, prénom, date de naissance, carte de fidélité (case à cocher) et numéro de carte de fidélité.
