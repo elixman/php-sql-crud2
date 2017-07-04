@@ -1,4 +1,4 @@
-#PDO - Partie 2 : Écrire des données
+# PDO - Partie 2 : Écrire des données
 
 ## Exercice 1
 
